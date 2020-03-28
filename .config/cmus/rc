@@ -1,0 +1,7 @@
+fset 00s=date>=2000&date<2010
+fset ambient=genre="Ambient"
+fset blues=genre="Blues"
+fset christmas=genre="Christmas"
+fset floyd=artist="Pink Floyd"
+fset phish=artist="Phish"
+fset prog=genre="Progressive Rock"
